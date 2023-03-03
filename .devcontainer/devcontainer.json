@@ -8,9 +8,7 @@
 		"python.pythonPath": "/usr/bin/python3",
 		"python.linting.enabled": true,
 		"python.linting.pylintEnabled": true,
-		"python.languageServer": "Pylance",
-// Uncomment this line if you want to use a custom pylintrc file
-// 		"python.linting.pylintArgs": ["--rcfile=${env:HOME}/.pylintrc","--enable=F,E,W"]
+		"python.languageServer": "Pylance"
   },
   // Add any extensions you want installed when the container is created
   "extensions": [

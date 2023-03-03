@@ -1,0 +1,9 @@
+numpy
+fiona
+rioxarray
+xarray
+rasterio
+datetime
+netCDF4
+pandas
+geopandas
